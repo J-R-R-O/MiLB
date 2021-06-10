@@ -1,0 +1,15 @@
+- https://www.milb.com/stats/
+- https://www.milb.com/live-stream-games
+
+Potential Pay Options
+- http://dailybaseballdata.com/cgi-bin/index.pl
+- http://www.milb.com/milb/psearch/bookmarks.jsp?did=milb&t=s_plb
+- - using "bookmarks" is a possible work around to create custom feeds for prospects across teams
+
+Good writeup:
+- https://billpetti.github.io/2020-01-07-acquire-minor-league-pitch-by-pitch-data-rstats-baseballr/
+
+BaseballR
+ - https://tht.fangraphs.com/developing-the-baseballr-package-for-r/
+ - http://billpetti.github.io/baseballr/
+ - https://billpetti.github.io/Crash_course_in_R/
